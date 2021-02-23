@@ -1,0 +1,5 @@
+pageresources\LoginPage.class
+resources\BaseClass.class
+pageresources\LandingPage.class
+pageresources\Validations.class
+AutomationFramework\App.class
